@@ -1,14 +1,9 @@
 
+watcher.py monitors a directory. it does something if a file is created in it.
 
+extractor.py deletes columns from an excel file
 
-
-
-watcher.py monitora una directory. fa qualcosa se viene creato un file al suo interno.
-
-extractor.py elimina delle colonne da un file excel
-
-watcherextractor elimina delle colonne da ogni file excel creato in una directory. prende in input una dir da monitorare e una di output
-
+watcherextractor removes columns from any excel file created in a directory. it takes as input a dir to monitor and an output dir
 
 
 
